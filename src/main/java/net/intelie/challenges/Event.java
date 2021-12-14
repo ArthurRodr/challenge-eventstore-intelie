@@ -1,5 +1,8 @@
 package net.intelie.challenges;
 
+import java.sql.Timestamp;
+import java.util.Date;
+
 /**
  * This is just an event stub, feel free to expand it if needed.
  */
